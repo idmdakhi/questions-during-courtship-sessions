@@ -36,11 +36,25 @@
 - فصل ۲۴: تحصیل، شغل و تعادل کار و زندگی
 - فصل ۲۵: سناریوهای واقعی و تحلیل آن‌ها (۱۳ سناریو)
 
+- بخش جدید: راهنمای والدین در جلسات خواستگاری (۸ فایل)
+  - `docs/03-parents-guide/README.md`
+  - `docs/03-parents-guide/01-goals.md`
+  - `docs/03-parents-guide/02-session-one.md`
+  - `docs/03-parents-guide/03-session-two.md`
+  - `docs/03-parents-guide/04-session-three.md`
+  - `docs/03-parents-guide/05-mutual-questions.md`
+  - `docs/03-parents-guide/06-forbidden-questions.md`
+  - `docs/03-parents-guide/07-evaluation-checklist.md`
+
 ### تغییر یافته
 
 - README.md: به‌روزرسانی فهرست و آمار
 - docs/01-chapters/README.md: به‌روزرسانی فهرست ۲۵ فصل
 - docs/00-introduction/README.md: افزودن ارجاع به فصل ۲۲
+
+- README.md: افزودن بخش راهنمای والدین به فهرست
+- README.md: به‌روزرسانی ساختار پروژه
+- README.md: به‌روزرسانی آمار پروژه
 
 ### حذف شده
 
