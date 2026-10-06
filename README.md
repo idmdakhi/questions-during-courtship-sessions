@@ -53,29 +53,33 @@
 
 ### بخش دوم — فصل‌های شناخت
 
-| فصل | عنوان                                                                                  | جلسه |
-| :-: | -------------------------------------------------------------------------------------- | :--: |
-|  ۱  | [هویت، شخصیت و انگیزه ازدواج](docs/01-chapters/chapter-01-identity.md)                 |  ۱   |
-|  ۲  | [خانواده، استقلال و مرزبندی](docs/01-chapters/chapter-02-family.md)                    |  ۱   |
-|  ۳  | [ارزش‌ها، باورها و جهان‌بینی](docs/01-chapters/chapter-03-values.md)                   |  ۱   |
-|  ۴  | [سبک زندگی، عادت‌ها و مدیریت زمان](docs/01-chapters/chapter-04-lifestyle.md)           |  ۲   |
-|  ۵  | [روابط عاطفی، عشق و صمیمیت](docs/01-chapters/chapter-05-emotional.md)                  |  ۲   |
-|  ۶  | [مدیریت تعارض، حل اختلاف و کنترل خشم](docs/01-chapters/chapter-06-conflict.md)         |  ۲   |
-|  ۷  | [مسائل مالی، شغل و مدیریت اقتصادی](docs/01-chapters/chapter-07-financial.md)           |  ۳   |
-|  ۸  | [فرزندآوری، تربیت فرزند و آینده خانواده](docs/01-chapters/chapter-08-children.md)      |  ۳   |
-|  ۹  | [سلامت جسمی، سلامت روان و سبک زندگی سالم](docs/01-chapters/chapter-09-health.md)       |  ۳   |
-| ۱۰  | [روابط گذشته، مرزهای ارتباطی و اعتماد](docs/01-chapters/chapter-10-trust.md)           |  ۳   |
-| ۱۱  | [روابط زناشویی، صمیمیت جنسی و انتظارات](docs/01-chapters/chapter-11-intimacy.md)       |  ۳   |
-| ۱۲  | [تصمیم نهایی، جمع‌بندی و ارزیابی ریسک](docs/01-chapters/chapter-12-decision.md)        |  ۴   |
-| ۱۳  | [اعتقادات، فرهنگ و سبک زندگی خانوادگی](docs/01-chapters/chapter-13-culture.md)         |  ۲   |
-| ۱۴  | [محل زندگی، مهاجرت و برنامه‌ریزی آینده](docs/01-chapters/chapter-14-future.md)         |  ۳   |
-| ۱۵  | [فضای مجازی، فناوری و حریم خصوصی](docs/01-chapters/chapter-15-technology.md)           |  ۳   |
-| ۱۶  | [مدیریت بحران، تاب‌آوری و تصمیم‌گیری](docs/01-chapters/chapter-16-crisis.md)           |  ۳   |
-| ۱۷  | [حقوق، مسئولیت‌ها و انتظارات متقابل](docs/01-chapters/chapter-17-rights.md)            |  ۳   |
-| ۱۸  | [شناخت عمیق شخصیت (مصاحبه رفتاری)](docs/01-chapters/chapter-18-behavioral.md)          |  ۴   |
-| ۱۹  | [پرسش‌های خانواده پسر از خانواده دختر](docs/01-chapters/chapter-19-groom-family.md)    | ۲-۳  |
-| ۲۰  | [پرسش‌های خانواده دختر از خانواده پسر](docs/01-chapters/chapter-20-bride-family.md)    | ۲-۳  |
-| ۲۱  | [فرم ارزیابی، امتیازدهی و تصمیم‌گیری نهایی](docs/01-chapters/chapter-21-evaluation.md) |  ۴   |
+|  فصل   | عنوان                                                                                    | جلسه |
+| :----: | ---------------------------------------------------------------------------------------- | :--: |
+|   ۱    | [هویت، شخصیت و انگیزه ازدواج](docs/01-chapters/chapter-01-identity.md)                   |  ۱   |
+|   ۲    | [خانواده، استقلال و مرزبندی](docs/01-chapters/chapter-02-family.md)                      |  ۱   |
+|   ۳    | [ارزش‌ها، باورها و جهان‌بینی](docs/01-chapters/chapter-03-values.md)                     |  ۱   |
+|   ۴    | [سبک زندگی، عادت‌ها و مدیریت زمان](docs/01-chapters/chapter-04-lifestyle.md)             |  ۲   |
+|   ۵    | [روابط عاطفی، عشق و صمیمیت](docs/01-chapters/chapter-05-emotional.md)                    |  ۲   |
+|   ۶    | [مدیریت تعارض، حل اختلاف و کنترل خشم](docs/01-chapters/chapter-06-conflict.md)           |  ۲   |
+|   ۷    | [مسائل مالی، شغل و مدیریت اقتصادی](docs/01-chapters/chapter-07-financial.md)             |  ۳   |
+|   ۸    | [فرزندآوری، تربیت فرزند و آینده خانواده](docs/01-chapters/chapter-08-children.md)        |  ۳   |
+|   ۹    | [سلامت جسمی، سلامت روان و سبک زندگی سالم](docs/01-chapters/chapter-09-health.md)         |  ۳   |
+|   ۱۰   | [روابط گذشته، مرزهای ارتباطی و اعتماد](docs/01-chapters/chapter-10-trust.md)             |  ۳   |
+|   ۱۱   | [روابط زناشویی، صمیمیت جنسی و انتظارات](docs/01-chapters/chapter-11-intimacy.md)         |  ۳   |
+|   ۱۲   | [تصمیم نهایی، جمع‌بندی و ارزیابی ریسک](docs/01-chapters/chapter-12-decision.md)          |  ۴   |
+|   ۱۳   | [اعتقادات، فرهنگ و سبک زندگی خانوادگی](docs/01-chapters/chapter-13-culture.md)           |  ۲   |
+|   ۱۴   | [محل زندگی، مهاجرت و برنامه‌ریزی آینده](docs/01-chapters/chapter-14-future.md)           |  ۳   |
+|   ۱۵   | [فضای مجازی، فناوری و حریم خصوصی](docs/01-chapters/chapter-15-technology.md)             |  ۳   |
+|   ۱۶   | [مدیریت بحران، تاب‌آوری و تصمیم‌گیری](docs/01-chapters/chapter-16-crisis.md)             |  ۳   |
+|   ۱۷   | [حقوق، مسئولیت‌ها و انتظارات متقابل](docs/01-chapters/chapter-17-rights.md)              |  ۳   |
+|   ۱۸   | [شناخت عمیق شخصیت (مصاحبه رفتاری)](docs/01-chapters/chapter-18-behavioral.md)            |  ۴   |
+|   ۱۹   | [پرسش‌های خانواده پسر از خانواده دختر](docs/01-chapters/chapter-19-groom-family.md)      | ۲-۳  |
+|   ۲۰   | [پرسش‌های خانواده دختر از خانواده پسر](docs/01-chapters/chapter-20-bride-family.md)      | ۲-۳  |
+|   ۲۱   | [فرم ارزیابی، امتیازدهی و تصمیم‌گیری نهایی](docs/01-chapters/chapter-21-evaluation.md)   |  ۴   |
+| **۲۲** | [مراحل خواستگاری: از آشنایی تا پیش از عقد](docs/01-chapters/chapter-22-dating-stages.md) | همه  |
+| **۲۳** | [روابط اجتماعی و مرزهای ارتباطی](docs/01-chapters/chapter-23-social-relations.md)        | ۲-۳  |
+| **۲۴** | [تحصیل، شغل و تعادل کار و زندگی](docs/01-chapters/chapter-24-career.md)                  |  ۳   |
+| **۲۵** | [سناریوهای واقعی و تحلیل آن‌ها](docs/01-chapters/chapter-25-scenarios.md)                | ۳-۴  |
 
 ### بخش سوم — پیوست‌ها
 
@@ -93,6 +97,21 @@
 - [قالب یادداشت جلسات](templates/session-notes-template.md)
 - [قالب ارزیابی](templates/evaluation-template.md)
 - [چک‌لیست تصمیم‌گیری](templates/decision-checklist.md)
+
+---
+
+### آمار پروژه
+
+| مورد              |    تعداد    |
+| ----------------- | :---------: |
+| فایل‌های Markdown |   **۶۱**    |
+| فصل‌های شناخت     |   **۲۵**    |
+| فایل‌های مقدمه    |    **۸**    |
+| پیوست‌ها          |    **۹**    |
+| قالب‌ها           |    **۳**    |
+| GitHub Templates  |    **۳**    |
+| فایل‌های پایه     |    **۶**    |
+| خطوط محتوا        | **+۱۸,۰۰۰** |
 
 ---
 
