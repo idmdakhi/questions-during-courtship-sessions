@@ -4,9 +4,9 @@
 
 > **یک راهنمای ساختارمند، علمی و کاربردی برای شناخت پیش از ازدواج**
 
-[![زبان](https://img.shields.io/badge/زبان-فارسی-blue)](https://github.com/your-username/dating-questions-guide)
+[![زبان](https://img.shields.io/badge/زبان-فارسی-blue)](https://github.com/idmdakhi/questions-during-courtship-sessions)
 [![مجوز](https://img.shields.io/badge/مجوز-CC%20BY--NC--SA%204.0-lightgrey)](LICENSE)
-[![وضعیت](https://img.shields.io/badge/وضعیت-فعال-success)](https://github.com/your-username/dating-questions-guide)
+[![وضعیت](https://img.shields.io/badge/وضعیت-فعال-success)](https://github.com/idmdakhi/questions-during-courtship-sessions)
 [![مشارکت](https://img.shields.io/badge/مشارکت-خوش‌آمدید-brightgreen)](CONTRIBUTING.md)
 
 ---
@@ -39,12 +39,13 @@
 
 ## بخش‌های راهنما
 
-|  #  | بخش                | توضیح                      | فایل‌ها |
-| :-: | ------------------ | -------------------------- | :-----: |
-|  ۱  | مقدمه              | اصول، اشتباهات، محدودیت‌ها |    ۸    |
-|  ۲  | فصل‌های شناخت      | ۲۵ فصل برای شناخت عمیق     |   ۲۵    |
-|  ۳  | پیوست‌ها           | فرم‌ها، واژه‌نامه، منابع   |    ۹    |
-|  ۴  | **راهنمای والدین** | **سؤالات والدین در جلسات** |  **۸**  |
+|  #  | بخش                 | توضیح                       | فایل‌ها |
+| :-: | ------------------- | --------------------------- | :-----: |
+|  ۱  | مقدمه               | اصول، اشتباهات، محدودیت‌ها  |    ۸    |
+|  ۲  | فصل‌های شناخت       | ۲۵ فصل برای شناخت عمیق      |   ۲۵    |
+|  ۳  | پیوست‌ها            | فرم‌ها، واژه‌نامه، منابع    |    ۹    |
+|  ۴  | **راهنمای والدین**  | **سؤالات والدین در جلسات**  |  **۸**  |
+|  ۵  | **راهنمای ارزیابی** | **نشانه‌ها، تحلیل، پیگیری** |  **۶**  |
 
 ---
 
@@ -118,21 +119,31 @@
 - [سؤالات ممنوع](docs/03-parents-guide/06-forbidden-questions.md)
 - [چک‌لیست ارزیابی والدین](docs/03-parents-guide/07-evaluation-checklist.md)
 
+### بخش پنجم — راهنمای ارزیابی
+
+- [مقدمه](docs/04-evaluation-guide/README.md)
+- [نشانه‌های مثبت (Green Flags)](docs/04-evaluation-guide/01-green-flags.md)
+- [نشانه‌های نیازمند بررسی (Yellow Flags)](docs/04-evaluation-guide/02-needs-review.md)
+- [نشانه‌های هشدار (Red Flags)](docs/04-evaluation-guide/03-red-flags.md)
+- [سؤالات پیگیری](docs/04-evaluation-guide/04-follow-up-questions.md)
+- [تحلیل پاسخ‌ها](docs/04-evaluation-guide/05-response-analysis.md)
+
 ---
 
 ### آمار پروژه
 
-| مورد                    |    تعداد    |
-| ----------------------- | :---------: |
-| فایل‌های Markdown       |   **۶۹**    |
-| فصل‌های شناخت           |   **۲۵**    |
-| فایل‌های راهنمای والدین |    **۸**    |
-| فایل‌های مقدمه          |    **۸**    |
-| پیوست‌ها                |    **۹**    |
-| قالب‌ها                 |    **۳**    |
-| GitHub Templates        |    **۳**    |
-| فایل‌های پایه           |    **۶**    |
-| خطوط محتوا              | **+۲۱,۰۰۰** |
+| مورد                     |    تعداد    |
+| ------------------------ | :---------: |
+| فایل‌های Markdown        |   **۷۵**    |
+| فصل‌های شناخت            |   **۲۵**    |
+| فایل‌های راهنمای والدین  |    **۸**    |
+| فایل‌های راهنمای ارزیابی |    **۶**    |
+| فایل‌های مقدمه           |    **۸**    |
+| پیوست‌ها                 |    **۹**    |
+| قالب‌ها                  |    **۳**    |
+| GitHub Templates         |    **۳**    |
+| فایل‌های پایه            |    **۶**    |
+| خطوط محتوا               | **+۲۴,۰۰۰** |
 
 ---
 
@@ -182,6 +193,7 @@ dating-questions-guide/
 │ ├── 01-chapters/ # ۲۱ فصل شناخت
 │ ├── 02-appendices/ # پیوست‌ها (۹ فایل)
 │ ├── 03-parents-guide/ # راهنمای والدین (۸ فایل) ← جدید
+│ ├── 04-evaluation-guide/ # راهنمای ارزیابی (۶ فایل) ← جدید
 │ └── assets/images/ # تصاویر
 │
 ├── templates/ # قالب‌های آماده (۳ فایل)
@@ -196,12 +208,12 @@ dating-questions-guide/
 
 ## مشارکت
 
-از مشارکت شما استقبال می‌کنیم! لطفاً قبل از ارسال Pull Request، فایل [CONTRIBUTING.md](CONTRIBUTING.md) را مطالعه کنید.
+از مشارکت شما استقبال می‌کنیم! لطفاً قبل از ارسال Pull Request، فایل [CONTRIBUTING.md](https://github.com/idmdakhi/questions-during-courtship-sessions/CONTRIBUTING.md) را مطالعه کنید.
 
 ### راه‌های مشارکت:
 
-- 🐛 **گزارش خطا:** از طریق [Issues](https://github.com/your-username/dating-questions-guide/issues)
-- ✨ **پیشنهاد ویژگی:** از طریق [Feature Request](https://github.com/your-username/dating-questions-guide/issues/new?template=feature_request.md)
+- 🐛 **گزارش خطا:** از طریق [Issues](https://github.com/idmdakhi/questions-during-courtship-sessions/issues)
+- ✨ **پیشنهاد ویژگی:** از طریق [Feature Request](https://github.com/idmdakhi/questions-during-courtship-sessions/issues/new?template=feature_request.md)
 - 📝 **افزودن محتوا:** سؤالات جدید، فصل‌ها یا پیوست‌ها
 - 🌐 **ترجمه:** ترجمه به زبان‌های دیگر
 - 📚 **منابع علمی:** افزودن کتاب، مقاله یا آزمون
@@ -211,7 +223,7 @@ dating-questions-guide/
 
 ## مجوز
 
-این پروژه تحت مجوز [CC BY-NC-SA 4.0](LICENSE) منتشر شده است.
+این پروژه تحت مجوز [CC BY-NC-SA 4.0](https://github.com/idmdakhi/questions-during-courtship-sessions/LICENSE) منتشر شده است.
 
 - **BY:** ذکر منبع الزامی است.
 - **NC:** استفاده تجاری مجاز نیست.
@@ -227,7 +239,7 @@ dating-questions-guide/
 
 ## تماس
 
-- **GitHub Issues:** [ایجاد Issue](https://github.com/idmdakhi/dating-questions-guide/issues)
+- **GitHub Issues:** [ایجاد Issue](https://github.com/idmdakhi/questions-during-courtship-sessions/issues)
 - **ایمیل:** idmdakhi@gmail.com
 
 ---

@@ -46,6 +46,14 @@
   - `docs/03-parents-guide/06-forbidden-questions.md`
   - `docs/03-parents-guide/07-evaluation-checklist.md`
 
+- بخش جدید: راهنمای ارزیابی (۶ فایل)
+  - `docs/04-evaluation-guide/README.md`
+  - `docs/04-evaluation-guide/01-green-flags.md`
+  - `docs/04-evaluation-guide/02-needs-review.md`
+  - `docs/04-evaluation-guide/03-red-flags.md`
+  - `docs/04-evaluation-guide/04-follow-up-questions.md`
+  - `docs/04-evaluation-guide/05-response-analysis.md`
+
 ### تغییر یافته
 
 - README.md: به‌روزرسانی فهرست و آمار
@@ -53,6 +61,10 @@
 - docs/00-introduction/README.md: افزودن ارجاع به فصل ۲۲
 
 - README.md: افزودن بخش راهنمای والدین به فهرست
+- README.md: به‌روزرسانی ساختار پروژه
+- README.md: به‌روزرسانی آمار پروژه
+
+- README.md: افزودن بخش راهنمای ارزیابی
 - README.md: به‌روزرسانی ساختار پروژه
 - README.md: به‌روزرسانی آمار پروژه
 

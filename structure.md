@@ -63,6 +63,15 @@ dating-questions-guide/
 │ │ ├── 05-mutual-questions.md
 │ │ ├── 06-forbidden-questions.md
 │ │ └── 07-evaluation-checklist.md
+│ │
+│ ├── 04-evaluation-guide/
+│ │ └── README.md
+│ │ └── 01-green-flags.md
+│ │ └── 02-needs-review.md
+│ │ └── 03-red-flags.md
+│ │ └── 04-follow-up-questions.md
+│ │ └── 05-response-analysis.md
+│ │
 │ └── assets/
 │ └── images/
 │ └── .gitkeep

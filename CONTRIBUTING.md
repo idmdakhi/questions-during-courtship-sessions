@@ -19,7 +19,7 @@
 
 ## قبل از شروع
 
-1. مطمئن شوید که [Issue](https://github.com/your-username/dating-questions-guide/issues) مشابهی وجود ندارد.
+1. مطمئن شوید که [Issue](https://github.com/idmdakhi/questions-during-courtship-sessions/issues) مشابهی وجود ندارد.
 2. برای تغییرات بزرگ، ابتدا یک Issue ایجاد کنید و ایده خود را مطرح کنید.
 3. برای تغییرات کوچک (اصلاح تایپو، بهبود نگارش)، مستقیماً Pull Request ارسال کنید.
 
