@@ -385,7 +385,7 @@
 
 <div align="center">
 
-[**← محدودیت‌های پرسشنامه**](06-limitations.md) | [**بازگشت به فهرست مقدمه**](README.md)
+[**← محدودیت‌های پرسشنامه**](06-limitations.md) | [**بازگشت به فهرست مقدمه**](README.md) | [**یادداشت علمی →**](08-scientific-notes.md)
 
 </div>
 

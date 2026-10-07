@@ -31,6 +31,7 @@
 |  ۵  | اشتباهات رایج دوران خواستگاری     | [05-common-mistakes.md](05-common-mistakes.md)   |
 |  ۶  | محدودیت‌های پرسشنامه              | [06-limitations.md](06-limitations.md)           |
 |  ۷  | راهنمای عملی برگزاری جلسات        | [07-session-guide.md](07-session-guide.md)       |
+|  ۸  | یادداشت علمی و حدود ادعاها        | [08-scientific-notes.md](08-scientific-notes.md) |
 
 ---
 

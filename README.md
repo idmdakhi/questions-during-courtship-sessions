@@ -28,20 +28,20 @@
 
 | ویژگی          | توضیح                                                     |
 | -------------- | --------------------------------------------------------- |
-| **ساختارمند**  | ۲۱ فصل از ساده به عمیق، از عمومی به حساس                  |
+| **ساختارمند**  | ۲۵ فصل از ساده به عمیق، از عمومی به حساس                  |
 | **هدفمند**     | ذیل هر سؤال، «هدف» آن ذکر شده است                         |
 | **کاربردی**    | شامل سؤالات پیگیری، موقعیتی و نکات قابل مشاهده            |
-| **علمی**       | مبتنی بر مصاحبه رفتاری (STAR) و روان‌شناسی خانواده        |
+| **الهام‌گرفته از پژوهش** | الهام‌گرفته از مصاحبه رفتاری (STAR) و ادبیات روان‌شناسی خانواده؛ ابزار گفتگوست، نه آزمون اعتبارسنجی‌شده ([جزئیات](docs/00-introduction/08-scientific-notes.md)) |
 | **جامع**       | پوشش موضوعات شخصیتی، خانوادگی، مالی، عاطفی، حقوقی و بحران |
 | **ابزار محور** | شامل فرم‌های ارزیابی، چک‌لیست، نمودار راداری              |
 | **اخلاق‌محور** | تأکید بر صداقت، احترام، حریم خصوصی و مسئولیت‌پذیری        |
-| **چندزبانه**   | آماده برای ترجمه به زبان‌های دیگر                         |
+| **مسیر سریع**  | [۳۰ سؤال کلیدی](docs/quick-guide.md) برای کسانی که وقت کمتری دارند |
 
 ## بخش‌های راهنما
 
 |  #  | بخش                 | توضیح                       | فایل‌ها |
 | :-: | ------------------- | --------------------------- | :-----: |
-|  ۱  | مقدمه               | اصول، اشتباهات، محدودیت‌ها  |    ۸    |
+|  ۱  | مقدمه               | اصول، اشتباهات، محدودیت‌ها، یادداشت علمی |    ۹    |
 |  ۲  | فصل‌های شناخت       | ۲۵ فصل برای شناخت عمیق      |   ۲۵    |
 |  ۳  | پیوست‌ها            | فرم‌ها، واژه‌نامه، منابع    |    ۹    |
 |  ۴  | **راهنمای والدین**  | **سؤالات والدین در جلسات**  |  **۸**  |
@@ -50,6 +50,8 @@
 ---
 
 ## فهرست مطالب
+
+> **وقت کم دارید؟** از [۳۰ سؤال کلیدی (مسیر سریع)](docs/quick-guide.md) شروع کنید.
 
 ### بخش اول — مقدمه
 
@@ -60,6 +62,7 @@
 - [اشتباهات رایج دوران خواستگاری](docs/00-introduction/05-common-mistakes.md)
 - [محدودیت‌های پرسشنامه](docs/00-introduction/06-limitations.md)
 - [راهنمای عملی برگزاری جلسات](docs/00-introduction/07-session-guide.md)
+- [یادداشت علمی و حدود ادعاها](docs/00-introduction/08-scientific-notes.md)
 
 ### بخش دوم — فصل‌های شناخت
 
@@ -134,16 +137,15 @@
 
 | مورد                     |    تعداد    |
 | ------------------------ | :---------: |
-| فایل‌های Markdown        |   **۷۵**    |
+| فایل‌های Markdown        |   **۷۱**    |
 | فصل‌های شناخت            |   **۲۵**    |
 | فایل‌های راهنمای والدین  |    **۸**    |
 | فایل‌های راهنمای ارزیابی |    **۶**    |
-| فایل‌های مقدمه           |    **۸**    |
+| فایل‌های مقدمه           |    **۹**    |
 | پیوست‌ها                 |    **۹**    |
 | قالب‌ها                  |    **۳**    |
 | GitHub Templates         |    **۳**    |
-| فایل‌های پایه            |    **۶**    |
-| خطوط محتوا               | **+۲۴,۰۰۰** |
+| خطوط محتوا (تقریبی)      | **حدود ۱۸٬۰۰۰** |
 
 ---
 
@@ -177,38 +179,110 @@
 
 ## ساختار پروژه
 
-```
+<div dir="ltr">
 
-dating-questions-guide/
-│
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── CHANGELOG.md
+```
+questions-during-courtship-sessions/
 ├── .gitignore
-│
-├── docs/
-│ ├── 00-introduction/ # بخش مقدمه (۸ فایل)
-│ ├── 01-chapters/ # ۲۱ فصل شناخت
-│ ├── 02-appendices/ # پیوست‌ها (۹ فایل)
-│ ├── 03-parents-guide/ # راهنمای والدین (۸ فایل) ← جدید
-│ ├── 04-evaluation-guide/ # راهنمای ارزیابی (۶ فایل) ← جدید
-│ └── assets/images/ # تصاویر
-│
-├── templates/ # قالب‌های آماده (۳ فایل)
-│
-└── .github/
-├── ISSUE_TEMPLATE/ # قالب‌های Issue
-└── PULL_REQUEST_TEMPLATE.md
-
+├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── ROADMAP.md
+├── mkdocs.yml
+├── requirements-docs.txt
+├── structure.md
+├── .github/  # قالب‌های گیت‌هاب و CI
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── workflows/
+│       └── pages.yml
+├── docs/  # محتوای اصلی
+│   ├── quick-guide.md
+│   ├── 00-introduction/
+│   │   ├── 01-purpose.md
+│   │   ├── 02-audience.md
+│   │   ├── 03-how-to-use.md
+│   │   ├── 04-healthy-dialogue.md
+│   │   ├── 05-common-mistakes.md
+│   │   ├── 06-limitations.md
+│   │   ├── 07-session-guide.md
+│   │   ├── 08-scientific-notes.md
+│   │   └── README.md
+│   ├── 01-chapters/
+│   │   ├── README.md
+│   │   ├── chapter-01-identity.md
+│   │   ├── chapter-02-family.md
+│   │   ├── chapter-03-values.md
+│   │   ├── chapter-04-lifestyle.md
+│   │   ├── chapter-05-emotional.md
+│   │   ├── chapter-06-conflict.md
+│   │   ├── chapter-07-financial.md
+│   │   ├── chapter-08-children.md
+│   │   ├── chapter-09-health.md
+│   │   ├── chapter-10-trust.md
+│   │   ├── chapter-11-intimacy.md
+│   │   ├── chapter-12-decision.md
+│   │   ├── chapter-13-culture.md
+│   │   ├── chapter-14-future.md
+│   │   ├── chapter-15-technology.md
+│   │   ├── chapter-16-crisis.md
+│   │   ├── chapter-17-rights.md
+│   │   ├── chapter-18-behavioral.md
+│   │   ├── chapter-19-groom-family.md
+│   │   ├── chapter-20-bride-family.md
+│   │   ├── chapter-21-evaluation.md
+│   │   ├── chapter-22-dating-stages.md
+│   │   ├── chapter-23-social-relations.md
+│   │   ├── chapter-24-career.md
+│   │   └── chapter-25-scenarios.md
+│   ├── 02-appendices/
+│   │   ├── README.md
+│   │   ├── a-session-notes.md
+│   │   ├── b-final-summary.md
+│   │   ├── c-glossary.md
+│   │   ├── d-resources.md
+│   │   ├── e-books.md
+│   │   ├── f-articles.md
+│   │   ├── g-standard-tests.md
+│   │   └── h-notes.md
+│   ├── 03-parents-guide/
+│   │   ├── 01-goals.md
+│   │   ├── 02-session-one.md
+│   │   ├── 03-session-two.md
+│   │   ├── 04-session-three.md
+│   │   ├── 05-mutual-questions.md
+│   │   ├── 06-forbidden-questions.md
+│   │   ├── 07-evaluation-checklist.md
+│   │   └── README.md
+│   ├── 04-evaluation-guide/
+│   │   ├── 01-green-flags.md
+│   │   ├── 02-needs-review.md
+│   │   ├── 03-red-flags.md
+│   │   ├── 04-follow-up-questions.md
+│   │   ├── 05-response-analysis.md
+│   │   └── README.md
+│   └── assets/
+│       └── images/
+│           └── .gitkeep
+├── scripts/  # ابزار ساخت سایت
+│   └── prepare-site.sh
+└── templates/  # قالب‌های آماده
+    ├── decision-checklist.md
+    ├── evaluation-template.md
+    └── session-notes-template.md
 ```
+
+</div>
 
 ---
 
 ## مشارکت
 
-از مشارکت شما استقبال می‌کنیم! لطفاً قبل از ارسال Pull Request، فایل [CONTRIBUTING.md](https://github.com/idmdakhi/questions-during-courtship-sessions/CONTRIBUTING.md) را مطالعه کنید.
+از مشارکت شما استقبال می‌کنیم! لطفاً قبل از ارسال Pull Request، فایل [CONTRIBUTING.md](CONTRIBUTING.md) را مطالعه کنید.
 
 ### راه‌های مشارکت:
 
@@ -216,6 +290,7 @@ dating-questions-guide/
 - ✨ **پیشنهاد ویژگی:** از طریق [Feature Request](https://github.com/idmdakhi/questions-during-courtship-sessions/issues/new?template=feature_request.md)
 - 📝 **افزودن محتوا:** سؤالات جدید، فصل‌ها یا پیوست‌ها
 - 🌐 **ترجمه:** ترجمه به زبان‌های دیگر
+- 🗺️ **نقشه راه:** کارهای آینده در [ROADMAP.md](ROADMAP.md)
 - 📚 **منابع علمی:** افزودن کتاب، مقاله یا آزمون
 - 🎨 **بهبود ساختار:** بازسازی یا بهبود فایل‌ها
 
@@ -223,11 +298,13 @@ dating-questions-guide/
 
 ## مجوز
 
-این پروژه تحت مجوز [CC BY-NC-SA 4.0](https://github.com/idmdakhi/questions-during-courtship-sessions/LICENSE) منتشر شده است.
+این پروژه تحت مجوز [CC BY-NC-SA 4.0](LICENSE) منتشر شده است.
 
 - **BY:** ذکر منبع الزامی است.
 - **NC:** استفاده تجاری مجاز نیست.
 - **SA:** اشتراک با همان مجوز.
+
+متن کامل مجوز در فایل [LICENSE](LICENSE) آمده است.
 
 ---
 

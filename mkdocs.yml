@@ -1,0 +1,97 @@
+site_name: راهنمای جامع سوالات در جلسات خواستگاری
+site_description: راهنمای ساختارمند برای شناخت پیش از ازدواج
+site_url: https://idmdakhi.github.io/questions-during-courtship-sessions/
+repo_url: https://github.com/idmdakhi/questions-during-courtship-sessions
+docs_dir: .site-src
+site_dir: site
+theme:
+  name: material
+  language: fa
+  direction: rtl
+  features:
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+validation:
+  links:
+    not_found: warn
+    anchors: ignore
+nav:
+  - "صفحه اصلی": README.md
+  - "۳۰ سؤال کلیدی (مسیر سریع)": docs/quick-guide.md
+  - "مقدمه":
+      - "بخش اول — مقدمه": docs/00-introduction/README.md
+      - "هدف این راهنما": docs/00-introduction/01-purpose.md
+      - "این راهنما برای چه کسانی است؟": docs/00-introduction/02-audience.md
+      - "چگونه از این راهنما استفاده کنیم؟": docs/00-introduction/03-how-to-use.md
+      - "اصول گفتگوی سالم": docs/00-introduction/04-healthy-dialogue.md
+      - "اشتباهات رایج دوران خواستگاری": docs/00-introduction/05-common-mistakes.md
+      - "محدودیت‌های پرسشنامه": docs/00-introduction/06-limitations.md
+      - "راهنمای عملی برگزاری جلسات": docs/00-introduction/07-session-guide.md
+      - "یادداشت علمی و حدود ادعاها": docs/00-introduction/08-scientific-notes.md
+  - "فصل‌ها":
+      - "فصل‌های شناخت": docs/01-chapters/README.md
+      - "فصل ۱ — هویت، شخصیت و انگیزه ازدواج": docs/01-chapters/chapter-01-identity.md
+      - "فصل ۲ — خانواده، استقلال و مرزبندی": docs/01-chapters/chapter-02-family.md
+      - "فصل ۳ — ارزش‌ها، باورها و جهان‌بینی": docs/01-chapters/chapter-03-values.md
+      - "فصل ۴ — سبک زندگی، عادت‌ها و مدیریت زمان": docs/01-chapters/chapter-04-lifestyle.md
+      - "فصل ۵ — روابط عاطفی، عشق و صمیمیت": docs/01-chapters/chapter-05-emotional.md
+      - "فصل ۶ — مدیریت تعارض، حل اختلاف و کنترل خشم": docs/01-chapters/chapter-06-conflict.md
+      - "فصل ۷ — مسائل مالی، شغل و مدیریت اقتصادی خانواده": docs/01-chapters/chapter-07-financial.md
+      - "فصل ۸ — فرزندآوری، تربیت فرزند و آینده خانواده": docs/01-chapters/chapter-08-children.md
+      - "فصل ۹ — سلامت جسمی، سلامت روان و سبک زندگی سالم": docs/01-chapters/chapter-09-health.md
+      - "فصل ۱۰ — روابط گذشته، مرزهای ارتباطی و اعتماد": docs/01-chapters/chapter-10-trust.md
+      - "فصل ۱۱ — روابط زناشویی، صمیمیت جنسی و انتظارات متقابل": docs/01-chapters/chapter-11-intimacy.md
+      - "فصل ۱۲ — تصمیم نهایی، جمع‌بندی و ارزیابی ریسک": docs/01-chapters/chapter-12-decision.md
+      - "فصل ۱۳ — اعتقادات، فرهنگ و سبک زندگی خانوادگی": docs/01-chapters/chapter-13-culture.md
+      - "فصل ۱۴ — محل زندگی، مهاجرت و برنامه‌ریزی آینده": docs/01-chapters/chapter-14-future.md
+      - "فصل ۱۵ — فضای مجازی، فناوری و حریم خصوصی": docs/01-chapters/chapter-15-technology.md
+      - "فصل ۱۶ — مدیریت بحران، تاب‌آوری و تصمیم‌گیری در شرایط سخت": docs/01-chapters/chapter-16-crisis.md
+      - "فصل ۱۷ — حقوق، مسئولیت‌ها و انتظارات متقابل": docs/01-chapters/chapter-17-rights.md
+      - "فصل ۱۸ — شناخت عمیق شخصیت (مصاحبه رفتاری)": docs/01-chapters/chapter-18-behavioral.md
+      - "فصل ۱۹ — پرسش‌های خانواده پسر از خانواده دختر": docs/01-chapters/chapter-19-groom-family.md
+      - "فصل ۲۰ — پرسش‌های خانواده دختر از خانواده پسر": docs/01-chapters/chapter-20-bride-family.md
+      - "فصل ۲۱ — فرم ارزیابی، امتیازدهی و تصمیم‌گیری نهایی": docs/01-chapters/chapter-21-evaluation.md
+      - "فصل ۲۲ — مراحل خواستگاری: از آشنایی تا پیش از عقد": docs/01-chapters/chapter-22-dating-stages.md
+      - "فصل ۲۳ — روابط اجتماعی و مرزهای ارتباطی": docs/01-chapters/chapter-23-social-relations.md
+      - "فصل ۲۴ — تحصیل، شغل و تعادل کار و زندگی": docs/01-chapters/chapter-24-career.md
+      - "فصل ۲۵ — سناریوهای واقعی و تحلیل آن‌ها": docs/01-chapters/chapter-25-scenarios.md
+  - "پیوست‌ها":
+      - "پیوست‌ها": docs/02-appendices/README.md
+      - "پیوست الف — فرم یادداشت جلسات": docs/02-appendices/a-session-notes.md
+      - "پیوست ب — فرم جمع‌بندی نهایی": docs/02-appendices/b-final-summary.md
+      - "پیوست ج — واژه‌نامه": docs/02-appendices/c-glossary.md
+      - "پیوست د — منابع پیشنهادی": docs/02-appendices/d-resources.md
+      - "پیوست ه — کتاب‌های مفید": docs/02-appendices/e-books.md
+      - "پیوست و — مقالات": docs/02-appendices/f-articles.md
+      - "پیوست ز — آزمون‌های استاندارد": docs/02-appendices/g-standard-tests.md
+      - "پیوست ح — یادداشت‌های تکمیلی": docs/02-appendices/h-notes.md
+  - "راهنمای والدین":
+      - "راهنمای جامع سوالات والدین در جلسات خواستگاری": docs/03-parents-guide/README.md
+      - "اهداف جلسات والدین": docs/03-parents-guide/01-goals.md
+      - "جلسه اول — آشنایی با خانواده": docs/03-parents-guide/02-session-one.md
+      - "جلسه دوم — شناخت عمیق‌تر": docs/03-parents-guide/03-session-two.md
+      - "جلسه سوم — تصمیم نهایی": docs/03-parents-guide/04-session-three.md
+      - "سوالات متقابل از والدین داماد": docs/03-parents-guide/05-mutual-questions.md
+      - "سوالات ممنوع": docs/03-parents-guide/06-forbidden-questions.md
+      - "چک‌لیست ارزیابی والدین": docs/03-parents-guide/07-evaluation-checklist.md
+  - "راهنمای ارزیابی":
+      - "راهنمای ارزیابی": docs/04-evaluation-guide/README.md
+      - "نشانه‌های مثبت (Green Flags)": docs/04-evaluation-guide/01-green-flags.md
+      - "نشانه‌های نیازمند بررسی (Yellow Flags)": docs/04-evaluation-guide/02-needs-review.md
+      - "نشانه‌های هشدار (Red Flags)": docs/04-evaluation-guide/03-red-flags.md
+      - "سؤالات پیگیری": docs/04-evaluation-guide/04-follow-up-questions.md
+      - "تحلیل پاسخ‌ها": docs/04-evaluation-guide/05-response-analysis.md
+  - "قالب‌ها":
+      - "چک‌لیست تصمیم‌گیری نهایی": templates/decision-checklist.md
+      - "قالب ارزیابی": templates/evaluation-template.md
+      - "قالب یادداشت جلسات": templates/session-notes-template.md
+  - "پروژه":
+      - "راهنمای مشارکت": CONTRIBUTING.md
+      - "آیین‌نامه رفتاری مشارکت‌کنندگان": CODE_OF_CONDUCT.md
+      - "تاریخچه تغییرات": CHANGELOG.md
+      - "نقشه راه": ROADMAP.md
