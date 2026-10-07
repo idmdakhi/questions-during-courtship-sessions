@@ -4,6 +4,10 @@ site_url: https://idmdakhi.github.io/questions-during-courtship-sessions/
 repo_url: https://github.com/idmdakhi/questions-during-courtship-sessions
 docs_dir: .site-src
 site_dir: site
+# MkDocs به‌صورت پیش‌فرض پوشه /templates/ را از سایت حذف می‌کند (و قابل جایگزینی نیست)؛
+# قانون زیر آن را دوباره شامل می‌کند.
+exclude_docs: |
+  !/templates/
 theme:
   name: material
   language: fa
