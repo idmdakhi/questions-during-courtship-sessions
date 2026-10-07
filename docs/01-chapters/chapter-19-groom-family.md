@@ -435,8 +435,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۸**](chapter-18-behavioral.md) | [**فصل ۲۰ →**](chapter-20-bride-family.md)
-
-</div>

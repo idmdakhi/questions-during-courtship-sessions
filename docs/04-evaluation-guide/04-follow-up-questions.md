@@ -245,8 +245,4 @@
 
 ---
 
-<div align="center">
-
 [**← نشانه‌های هشدار**](03-red-flags.md) | [**تحلیل پاسخ‌ها →**](05-response-analysis.md)
-
-</div>

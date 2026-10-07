@@ -154,8 +154,4 @@
 
 ---
 
-<div align="center">
-
 [**← بازگشت به پیوست‌ها**](README.md) | [**فرم جمع‌بندی نهایی →**](b-final-summary.md)
-
-</div>

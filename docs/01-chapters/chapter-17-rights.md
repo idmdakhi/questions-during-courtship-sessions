@@ -476,8 +476,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۶**](chapter-16-crisis.md) | [**فصل ۱۸ →**](chapter-18-behavioral.md)
-
-</div>

@@ -314,8 +314,4 @@
 
 ---
 
-<div align="center">
-
 [**← فهرست فصل‌ها**](README.md) | [**فصل ۲ →**](chapter-02-family.md)
-
-</div>

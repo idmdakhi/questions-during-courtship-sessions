@@ -180,8 +180,4 @@
 
 ---
 
-<div align="center">
-
 [**← فرم یادداشت جلسات**](a-session-notes.md) | [**واژه‌نامه →**](c-glossary.md)
-
-</div>

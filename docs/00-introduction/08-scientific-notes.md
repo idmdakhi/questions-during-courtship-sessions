@@ -58,8 +58,4 @@
 
 ---
 
-<div align="center">
-
 [**← راهنمای عملی برگزاری جلسات**](07-session-guide.md) | [**فهرست مقدمه**](README.md)
-
-</div>

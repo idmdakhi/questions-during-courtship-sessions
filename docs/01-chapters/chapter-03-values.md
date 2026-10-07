@@ -351,8 +351,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۲**](chapter-02-family.md) | [**فصل ۴ →**](chapter-04-lifestyle.md)
-
-</div>

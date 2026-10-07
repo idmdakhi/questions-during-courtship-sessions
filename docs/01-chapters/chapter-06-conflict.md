@@ -288,8 +288,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۵**](chapter-05-emotional.md) | [**فصل ۷ →**](chapter-07-financial.md)
-
-</div>

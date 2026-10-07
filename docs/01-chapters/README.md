@@ -104,8 +104,4 @@
 
 ---
 
-<div align="center">
-
 [**← بازگشت به مقدمه**](../00-introduction/README.md) | [**فصل ۱ →**](chapter-01-identity.md)
-
-</div>

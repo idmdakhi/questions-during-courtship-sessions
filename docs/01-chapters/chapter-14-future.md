@@ -333,8 +333,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۳**](chapter-13-culture.md) | [**فصل ۱۵ →**](chapter-15-technology.md)
-
-</div>

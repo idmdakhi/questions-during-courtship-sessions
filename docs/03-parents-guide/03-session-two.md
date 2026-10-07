@@ -162,8 +162,4 @@
 
 ---
 
-<div align="center">
-
 [**← جلسه اول**](02-session-one.md) | [**جلسه سوم →**](04-session-three.md)
-
-</div>

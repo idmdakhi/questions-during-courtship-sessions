@@ -270,8 +270,4 @@
 
 ---
 
-<div align="center">
-
 [**← آزمون‌های استاندارد**](g-standard-tests.md) | [**بازگشت به پیوست‌ها**](README.md)
-
-</div>

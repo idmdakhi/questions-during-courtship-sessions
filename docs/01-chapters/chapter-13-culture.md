@@ -304,8 +304,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۲**](chapter-12-decision.md) | [**فصل ۱۴ →**](chapter-14-future.md)
-
-</div>

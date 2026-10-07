@@ -250,8 +250,4 @@
 
 ---
 
-<div align="center">
-
 [**← سؤالات پیگیری**](04-follow-up-questions.md) | [**بازگشت به راهنمای ارزیابی**](README.md)
-
-</div>

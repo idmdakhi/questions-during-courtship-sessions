@@ -174,8 +174,4 @@
 
 ---
 
-<div align="center">
-
 [**← فرم جمع‌بندی نهایی**](b-final-summary.md) | [**منابع پیشنهادی →**](d-resources.md)
-
-</div>

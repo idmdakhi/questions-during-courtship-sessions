@@ -336,8 +336,4 @@
 
 ---
 
-<div align="center">
-
 [**← نشانه‌های نیازمند بررسی**](02-needs-review.md) | [**سؤالات پیگیری →**](04-follow-up-questions.md)
-
-</div>

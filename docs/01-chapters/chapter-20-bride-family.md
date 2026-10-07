@@ -473,8 +473,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۹**](chapter-19-groom-family.md) | [**فصل ۲۱ →**](chapter-21-evaluation.md)
-
-</div>

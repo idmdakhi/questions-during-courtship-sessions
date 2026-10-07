@@ -504,8 +504,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۲۱**](chapter-21-evaluation.md) | [**فصل ۲۳ →**](chapter-23-social-relations.md)
-
-</div>

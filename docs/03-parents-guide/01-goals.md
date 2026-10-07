@@ -239,8 +239,4 @@
 
 ---
 
-<div align="center">
-
 [**← بازگشت به فهرست**](README.md) | [**جلسه اول →**](02-session-one.md)
-
-</div>

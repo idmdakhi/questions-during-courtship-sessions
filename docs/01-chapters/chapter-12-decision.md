@@ -306,8 +306,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۱**](chapter-11-intimacy.md) | [**فصل ۱۳ →**](chapter-13-culture.md)
-
-</div>

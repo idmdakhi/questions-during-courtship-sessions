@@ -500,8 +500,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۲۰**](chapter-20-bride-family.md) | [**بازگشت به فهرست فصل‌ها**](README.md)
-
-</div>

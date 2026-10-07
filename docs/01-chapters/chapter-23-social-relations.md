@@ -315,8 +315,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۲۲**](chapter-22-dating-stages.md) | [**فصل ۲۴ →**](chapter-24-career.md)
-
-</div>

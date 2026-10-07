@@ -95,8 +95,4 @@
 
 ---
 
-<div align="center">
-
 [**فهرست مقدمه**](00-introduction/README.md) | [**فهرست فصل‌ها**](01-chapters/README.md)
-
-</div>

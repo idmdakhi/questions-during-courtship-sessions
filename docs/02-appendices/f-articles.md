@@ -96,8 +96,4 @@
 
 ---
 
-<div align="center">
-
 [**← کتاب‌های مفید**](e-books.md) | [**آزمون‌های استاندارد →**](g-standard-tests.md)
-
-</div>

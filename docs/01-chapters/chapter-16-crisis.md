@@ -286,8 +286,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۵**](chapter-15-technology.md) | [**فصل ۱۷ →**](chapter-17-rights.md)
-
-</div>

@@ -299,8 +299,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۴**](chapter-14-future.md) | [**فصل ۱۶ →**](chapter-16-crisis.md)
-
-</div>

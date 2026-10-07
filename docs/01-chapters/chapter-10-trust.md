@@ -379,8 +379,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۹**](chapter-09-health.md) | [**فصل ۱۱ →**](chapter-11-intimacy.md)
-
-</div>

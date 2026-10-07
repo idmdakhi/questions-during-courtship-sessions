@@ -222,8 +222,4 @@
 
 ---
 
-<div align="center">
-
 [**← اهداف جلسات**](01-goals.md) | [**جلسه دوم →**](03-session-two.md)
-
-</div>

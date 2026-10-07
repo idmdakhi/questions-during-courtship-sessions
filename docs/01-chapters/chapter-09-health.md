@@ -289,8 +289,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۸**](chapter-08-children.md) | [**فصل ۱۰ →**](chapter-10-trust.md)
-
-</div>

@@ -77,8 +77,4 @@
 
 ---
 
-<div align="center">
-
 [**← واژه‌نامه**](c-glossary.md) | [**کتاب‌های مفید →**](e-books.md)
-
-</div>

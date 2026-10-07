@@ -237,8 +237,4 @@
 
 ---
 
-<div align="center">
-
 [**← اشتباهات رایج**](05-common-mistakes.md) | [**راهنمای عملی برگزاری جلسات →**](07-session-guide.md)
-
-</div>

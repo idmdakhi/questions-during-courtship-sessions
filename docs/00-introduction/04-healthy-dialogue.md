@@ -361,8 +361,4 @@
 
 ---
 
-<div align="center">
-
 [**← نحوه استفاده**](03-how-to-use.md) | [**اشتباهات رایج →**](05-common-mistakes.md)
-
-</div>

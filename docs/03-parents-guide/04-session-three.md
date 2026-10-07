@@ -157,8 +157,4 @@
 
 ---
 
-<div align="center">
-
 [**← جلسه دوم**](03-session-two.md) | [**سؤالات متقابل →**](05-mutual-questions.md)
-
-</div>

@@ -309,8 +309,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۲۳**](chapter-23-social-relations.md) | [**فصل ۲۵ →**](chapter-25-scenarios.md)
-
-</div>

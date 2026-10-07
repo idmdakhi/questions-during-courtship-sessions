@@ -253,8 +253,4 @@
 
 ---
 
-<div align="center">
-
 [**← مخاطبان**](02-audience.md) | [**اصول گفتگوی سالم →**](04-healthy-dialogue.md)
-
-</div>

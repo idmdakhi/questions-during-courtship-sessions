@@ -90,8 +90,4 @@
 
 ---
 
-<div align="center">
-
 [**← منابع پیشنهادی**](d-resources.md) | [**مقالات →**](f-articles.md)
-
-</div>

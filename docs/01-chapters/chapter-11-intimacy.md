@@ -286,8 +286,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱۰**](chapter-10-trust.md) | [**فصل ۱۲ →**](chapter-12-decision.md)
-
-</div>

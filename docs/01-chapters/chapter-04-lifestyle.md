@@ -364,8 +364,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۳**](chapter-03-values.md) | [**فصل ۵ →**](chapter-05-emotional.md)
-
-</div>

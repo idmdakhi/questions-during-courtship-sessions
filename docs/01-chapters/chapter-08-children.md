@@ -275,8 +275,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۷**](chapter-07-financial.md) | [**فصل ۹ →**](chapter-09-health.md)
-
-</div>

@@ -283,8 +283,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۱**](chapter-01-identity.md) | [**فصل ۳ →**](chapter-03-values.md)
-
-</div>

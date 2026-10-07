@@ -59,8 +59,4 @@
 
 ---
 
-<div align="center">
-
 [**← بازگشت به فهرست فصل‌ها**](../01-chapters/README.md) | [**فرم یادداشت جلسات →**](a-session-notes.md)
-
-</div>

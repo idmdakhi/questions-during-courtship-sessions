@@ -365,8 +365,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۶**](chapter-06-conflict.md) | [**فصل ۸ →**](chapter-08-children.md)
-
-</div>

@@ -339,8 +339,4 @@
 
 ---
 
-<div align="center">
-
 [**← نشانه‌های مثبت**](01-green-flags.md) | [**نشانه‌های هشدار →**](03-red-flags.md)
-
-</div>

@@ -333,8 +333,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۴**](chapter-04-lifestyle.md) | [**فصل ۶ →**](chapter-06-conflict.md)
-
-</div>

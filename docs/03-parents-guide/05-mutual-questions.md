@@ -180,8 +180,4 @@
 
 ---
 
-<div align="center">
-
 [**← جلسه سوم**](04-session-three.md) | [**سؤالات ممنوع →**](06-forbidden-questions.md)
-
-</div>

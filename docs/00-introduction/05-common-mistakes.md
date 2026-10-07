@@ -293,8 +293,4 @@
 
 ---
 
-<div align="center">
-
 [**← اصول گفتگوی سالم**](04-healthy-dialogue.md) | [**محدودیت‌های پرسشنامه →**](06-limitations.md)
-
-</div>

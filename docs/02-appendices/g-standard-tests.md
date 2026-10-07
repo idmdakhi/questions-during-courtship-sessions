@@ -139,8 +139,4 @@
 
 ---
 
-<div align="center">
-
 [**← مقالات**](f-articles.md) | [**یادداشت‌های تکمیلی →**](h-notes.md)
-
-</div>

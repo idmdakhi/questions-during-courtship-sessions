@@ -354,8 +354,4 @@
 
 ---
 
-<div align="center">
-
 [**← سؤالات ممنوع**](06-forbidden-questions.md) | [**بازگشت به فهرست**](README.md)
-
-</div>

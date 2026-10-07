@@ -599,8 +599,4 @@
 
 ---
 
-<div align="center">
-
 [**← فصل ۲۴**](chapter-24-career.md) | [**بازگشت به فهرست فصل‌ها**](README.md)
-
-</div>

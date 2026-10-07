@@ -262,8 +262,4 @@
 
 ---
 
-<div align="center">
-
 [**← سؤالات متقابل**](05-mutual-questions.md) | [**چک‌لیست ارزیابی →**](07-evaluation-checklist.md)
-
-</div>
