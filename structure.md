@@ -1,7 +1,5 @@
 # ساختار پروژه
 
-<div dir="ltr">
-
 ```
 questions-during-courtship-sessions/
 ├── .gitignore
@@ -96,7 +94,5 @@ questions-during-courtship-sessions/
     ├── evaluation-template.md
     └── session-notes-template.md
 ```
-
-</div>
 
 > این فایل با مرور خودکار پوشه‌ها ساخته شده است. پس از افزودن یا حذف فایل، دوباره به‌روزرسانی شود.

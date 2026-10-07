@@ -1,7 +1,4 @@
-
 # فصل ۱۸ — شناخت عمیق شخصیت (مصاحبه رفتاری)
-
-<div dir="rtl">
 
 ## هدف فصل
 
@@ -436,7 +433,5 @@
 <div align="center">
 
 [**← فصل ۱۷**](chapter-17-rights.md) | [**فصل ۱۹ →**](chapter-19-groom-family.md)
-
-</div>
 
 </div>

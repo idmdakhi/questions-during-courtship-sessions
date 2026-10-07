@@ -1,7 +1,5 @@
 # ۳۰ سؤال کلیدی — مسیر سریع
 
-<div dir="rtl">
-
 > **اگر وقت یا حوصله خواندن کل راهنما را ندارید، از اینجا شروع کنید.** این فهرست ۳۰ سؤال از فصل‌های اصلی را، به ترتیب جلسات، گرد آورده است. سؤال‌ها عیناً از فصل‌ها برداشته شده‌اند و هر کدام به فصل خود لینک دارد؛ هدف و سؤال‌های پیگیری را همان‌جا ببینید.
 
 ---
@@ -39,53 +37,53 @@
 9. چه رفتارهایی باعث می‌شود احساس بی‌توجهی یا بی‌احترامی کنید؟  
    <sub>[فصل ۵](01-chapters/chapter-05-emotional.md)</sub>
 10. اگر از رفتار همسرتان ناراحت شوید، چگونه موضوع را مطرح می‌کنید؟  
-   <sub>[فصل ۵](01-chapters/chapter-05-emotional.md)</sub>
+    <sub>[فصل ۵](01-chapters/chapter-05-emotional.md)</sub>
 11. هنگام عصبانیت معمولاً چه رفتاری از خود نشان می‌دهید؟  
-   <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
+    <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
 12. آخرین اختلاف جدی که با یکی از نزدیکانتان داشتید چگونه حل شد؟  
-   <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
+    <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
 13. در زمان اختلاف بیشتر به دنبال حل مسئله هستید یا اثبات حقانیت خود؟  
-   <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
+    <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
 14. آیا اهل قهر کردن هستید؟ اگر بله، معمولاً چقدر طول می‌کشد؟  
-   <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
+    <sub>[فصل ۶](01-chapters/chapter-06-conflict.md)</sub>
 
 ## جلسه سوم — مالی، فرزند، سلامت، آینده (۱۲ سؤال)
 
 15. آیا در حال حاضر بدهی یا تعهد مالی قابل توجهی دارید؟  
-   <sub>[فصل ۷](01-chapters/chapter-07-financial.md)</sub>
+    <sub>[فصل ۷](01-chapters/chapter-07-financial.md)</sub>
 16. معمولاً درآمد خود را چگونه مدیریت می‌کنید؟  
-   <sub>[فصل ۷](01-chapters/chapter-07-financial.md)</sub>
+    <sub>[فصل ۷](01-chapters/chapter-07-financial.md)</sub>
 17. نظر شما درباره اشتغال همسر چیست؟  
-   <sub>[فصل ۷](01-chapters/chapter-07-financial.md)</sub>
+    <sub>[فصل ۷](01-chapters/chapter-07-financial.md)</sub>
 18. آیا تمایل به فرزندآوری دارید؟  
-   <sub>[فصل ۸](01-chapters/chapter-08-children.md)</sub>
+    <sub>[فصل ۸](01-chapters/chapter-08-children.md)</sub>
 19. درباره تنبیه بدنی چه نظری دارید؟  
-   <sub>[فصل ۸](01-chapters/chapter-08-children.md)</sub>
+    <sub>[فصل ۸](01-chapters/chapter-08-children.md)</sub>
 20. نگاه شما به سلامت روان چیست؟  
-   <sub>[فصل ۹](01-chapters/chapter-09-health.md)</sub>
+    <sub>[فصل ۹](01-chapters/chapter-09-health.md)</sub>
 21. آیا در صورت نیاز حاضر هستید همراه همسر خود در جلسات مشاوره شرکت کنید؟  
-   <sub>[فصل ۹](01-chapters/chapter-09-health.md)</sub>
+    <sub>[فصل ۹](01-chapters/chapter-09-health.md)</sub>
 22. آیا معتقدید همه موضوعات مهم گذشته که ممکن است بر زندگی مشترک اثر بگذارند، باید پیش از ازدواج مطرح شوند؟  
-   <sub>[فصل ۱۰](01-chapters/chapter-10-trust.md)</sub>
+    <sub>[فصل ۱۰](01-chapters/chapter-10-trust.md)</sub>
 23. دوست دارید پس از ازدواج در کجا زندگی کنید؟  
-   <sub>[فصل ۱۴](01-chapters/chapter-14-future.md)</sub>
+    <sub>[فصل ۱۴](01-chapters/chapter-14-future.md)</sub>
 24. آیا برنامه‌ای برای مهاجرت به شهر یا کشور دیگری دارید؟  
-   <sub>[فصل ۱۴](01-chapters/chapter-14-future.md)</sub>
+    <sub>[فصل ۱۴](01-chapters/chapter-14-future.md)</sub>
 25. تفاوت میان «حریم خصوصی» و «پنهان‌کاری» را چگونه تعریف می‌کنید؟  
-   <sub>[فصل ۱۵](01-chapters/chapter-15-technology.md)</sub>
+    <sub>[فصل ۱۵](01-chapters/chapter-15-technology.md)</sub>
 26. اگر یکی از شما شغل خود را از دست بدهد، چه راهکاری پیشنهاد می‌کنید؟  
-   <sub>[فصل ۱۶](01-chapters/chapter-16-crisis.md)</sub>
+    <sub>[فصل ۱۶](01-chapters/chapter-16-crisis.md)</sub>
 
 ## جلسه چهارم — مصاحبه رفتاری و جمع‌بندی (۴ سؤال)
 
 27. آخرین باری که اشتباه بزرگی مرتکب شدید چه بود؟  
-   <sub>[فصل ۱۸](01-chapters/chapter-18-behavioral.md)</sub>
+    <sub>[فصل ۱۸](01-chapters/chapter-18-behavioral.md)</sub>
 28. آخرین باری که کسی از شما انتقاد کرد چه واکنشی نشان دادید؟  
-   <sub>[فصل ۱۸](01-chapters/chapter-18-behavioral.md)</sub>
+    <sub>[فصل ۱۸](01-chapters/chapter-18-behavioral.md)</sub>
 29. آیا احساس می‌کنید در حضور این فرد می‌توانید خودِ واقعی‌تان باشید؟  
-   <sub>[فصل ۱۲](01-chapters/chapter-12-decision.md)</sub>
+    <sub>[فصل ۱۲](01-chapters/chapter-12-decision.md)</sub>
 30. آیا موضوعی وجود دارد که لازم باشد قبل از عقد به‌صورت شفاف مطرح شود؟  
-   <sub>[فصل ۱۲](01-chapters/chapter-12-decision.md)</sub>
+    <sub>[فصل ۱۲](01-chapters/chapter-12-decision.md)</sub>
 
 ---
 
@@ -100,7 +98,5 @@
 <div align="center">
 
 [**فهرست مقدمه**](00-introduction/README.md) | [**فهرست فصل‌ها**](01-chapters/README.md)
-
-</div>
 
 </div>
