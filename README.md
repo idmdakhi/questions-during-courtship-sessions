@@ -2,10 +2,10 @@
 
 > **یک راهنمای ساختارمند، علمی و کاربردی برای شناخت پیش از ازدواج**
 
-[![زبان](https://img.shields.io/badge/زبان-فارسی-blue)](https://github.com/idmdakhi/questions-during-courtship-sessions)
-[![مجوز](https://img.shields.io/badge/مجوز-CC%20BY--NC--SA%204.0-lightgrey)](LICENSE)
-[![وضعیت](https://img.shields.io/badge/وضعیت-فعال-success)](https://github.com/idmdakhi/questions-during-courtship-sessions)
-[![مشارکت](https://img.shields.io/badge/مشارکت-خوش‌آمدید-brightgreen)](CONTRIBUTING.md)
+[![LANGUAGE](https://img.shields.io/badge/Persian-Language-blue)](https://github.com/idmdakhi/questions-during-courtship-sessions)
+[![LICENSE](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/idmdakhi/questions-during-courtship-sessions)
+[![CONTRIBUTING](https://img.shields.io/badge/Participation-Welcome-brightgreen)](CONTRIBUTING.md)
 
 ---
 
